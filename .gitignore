@@ -1,0 +1,20 @@
+#Ignoramos la carpta usuarios y config
+gutierrezalberto.dev
+config
+.idea
+__pycache__
+
+#Archivos de autentificacion
+credential.py
+test.py
+
+#Fotos
+*.jpg
+*.png
+
+#videos
+*.mp4
+*.gif
+
+*.REMOVE_ME
+* REMOVE_ME
